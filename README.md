@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Assisted-Sustainable-Design-of-Ploymer-System-for-Chronic-Wound-Healing.
+# Artificial-Intelligence-Assisted-Sustainable-Design-of-Polymer-System-for-Chronic-Wound-Healing.
 ⚙️ Model Performance Highlights:
 • R² = 0.993, MAE = 0.235, RMSE = 0.369
 • Top Materials Identified:
